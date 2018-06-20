@@ -1,5 +1,5 @@
 """
-X, Y, D Int
+X, Y, D are Int
 X = 10, Y = 85, D = 30
 res = 3
 """
