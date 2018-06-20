@@ -1,5 +1,5 @@
 """
-A = List
+A is List
 A = [2, 3, 1, 5]
 res = 4
 """
