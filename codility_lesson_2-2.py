@@ -1,4 +1,5 @@
 """
+find single element
 A is List
 A = [3, 9, 3, 7, 9]
 res = 7
