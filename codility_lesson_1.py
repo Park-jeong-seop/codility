@@ -1,4 +1,6 @@
 """
+Find the number of 0 between 1
+
 N is Int
 N = 9 | binary = 1001
 res = 2
