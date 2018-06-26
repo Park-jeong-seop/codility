@@ -1,4 +1,6 @@
 """
+change list by K
+
 A is List
 K is Int
 A = [3, 8, 9, 7, 6]
