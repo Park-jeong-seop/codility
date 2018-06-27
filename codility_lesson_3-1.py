@@ -1,4 +1,7 @@
 """
+X is start from
+Y is destination
+D is distance to move
 X, Y, D are Int
 X = 10, Y = 85, D = 30
 res = 3
