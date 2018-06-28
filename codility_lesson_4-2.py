@@ -1,6 +1,9 @@
 """
 A is List, X is number
 
+If A contains all the values from 0 to X
+Returns the position value of the last found value
+
 if A is [1, 3, 1, 5, 4, 2, 3, 5, 4], X is 5
 return 5
 
